@@ -18,7 +18,7 @@ There is a bulleted list that addresses the three key differences in weather bet
 ![image_name](surfs_up/Resources/Dec_Temp.png) <br />
 
 
-**PyBer Summary** <br />
+## Summary: <br />
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. <br />
 
