@@ -10,9 +10,9 @@ The purpose of this analysis was to continue to provide research and insights on
 
 There are three main differences between the June and December temperature statistics: <br />
 
-* June’s average temperature is slightly higher at about 75 degress compared to December’s 71 degree average. <br />
-* The minimum temperature in December is 8 degrees lower than June’s lowest 56 and 64 respectively. <br />
-* 25% of Decembers’ temperatures were under 70 degrees which is four degress lower than June’s 73 lower percentile. <br />
+* June’s average temperature is slightly higher at about 75° compared to December’s 71° average. <br />
+* The minimum temperature in December is 8° lower than June’s lowest 56° and 64° respectively. <br />
+* 25% of Decembers’ temperatures were under 70° which is four degreeslower than June’s 73° lower percentile. <br />
 
 
 
