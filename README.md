@@ -11,8 +11,8 @@ The purpose of this analysis was to continue to provide research and insights on
 There are three main differences between the June and December temperature statistics: <br />
 
 * June’s average temperature is slightly higher at about 75° compared to December’s 71° average. <br />
-* The minimum temperature in December is 8° lower than June’s lowest 56° and 64° respectively. <br />
-* 25% of Decembers’ temperatures were under 70° which is four degreeslower than June’s 73° lower percentile. <br />
+* The minimum temperature in December is 8° lower than June’s lowest, 56° and 64° respectively. <br />
+* 25% of Decembers’ temperatures were under 70° which is four degrees lower than June’s 73°. <br />
 
 
 
@@ -24,10 +24,10 @@ There are three main differences between the June and December temperature stati
 
 ## Summary: <br />
 
-Overall the data suggest that while December may have more days with lower temperatures, it does not appear that would impact the business as non-profitable for the entire December month especially if the maximum temperature, 84° and also taking into account that over half the December temperatures are over 70°.  
+Overall the data suggest that while December may have more days with lower temperatures, it does not appear that would result in a non-profitable month for the ice cream and surf shop during December especially if the maximum temperature 84° is taken into account. Another fact supporting the business is that over half of the December temperatures are over 70°.
 
 
-In order to gather more data, I also took a look at precipitation for the months  of June and December. For both months, the average rain fall was less than half an inch. Also both months’ 75% percentile was under half an inch.  Where the two months did differ was on the max amount of rainfall which was 4.4 inches for June and 6.4 inches for December. From this analysis it would be safe to conclude that neither has much rainfall, but the few days it does rain, it will fall heavier in December than in June. 
+In order to gather more data, I also took a look at precipitation for the months of June and December. For both months, the average rain fall and the 75th percentile was less than half an inch.  Where the two months did differ was on the max amount of rainfall which was 4.4 inches for June and 6.4 inches for December. From this analysis it would be safe to conclude that neither June or December has much rainfall, but between the two months, the heaviest rainfall day will most likely be in December.  
 
 
 ![image_name](Resources/June_Rain.png) <br />
