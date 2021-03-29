@@ -16,8 +16,7 @@ There are three main differences between the June and December temperature stati
 
 
 
-![Screenshot](Resources/June_Temp.png) <br />
-
+![Screenshot](Resources/June_Temp.png) 
 
 
 ![image_name](Resources/Dec_Temp.png) <br />
