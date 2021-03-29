@@ -11,7 +11,7 @@ The purpose of this analysis was to continue to provide research and insights on
 There is a bulleted list that addresses the three key differences in weather between June and December.  <br />
 
 
-![image_name](surfs_up/Resources/June_Temp.png) <br />
+![Screenshot]surfs_up/Resources/June_Temp.png) <br />
 
 
 
