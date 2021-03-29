@@ -24,7 +24,13 @@ There are three main differences between the June and December temperature stati
 
 ## Summary: <br />
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. <br />
+Overall the data suggest that while December may have more days with lower temperatures, it does not appear that would impact the business as non-profitable for the entire December month especially if the maximum temperature, 84° and also taking into account that over half the December temperatures are over 70°.  
+
+
+In order to gather more data, I also took a look at precipitation for the months  of June and December. For both months, the average rain fall was less than half an inch. Also both months’ 75% percentile was under half an inch.  Where the two months did differ was on the max amount of rainfall which was 4.4 inches for June and 6.4 inches for December. From this analysis it would be safe to conclude that neither has much rainfall, but the few days it does rain, it will fall heavier in December than in June. 
+
+![image](https://user-images.githubusercontent.com/77246509/112779079-c8e55200-8ffa-11eb-8352-49a4b8830c59.png)
+ <br />
 
 
 
