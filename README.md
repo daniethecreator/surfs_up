@@ -11,11 +11,11 @@ The purpose of this analysis was to continue to provide research and insights on
 There is a bulleted list that addresses the three key differences in weather between June and December.  <br />
 
 
-![Screenshot](surfs_up/Resources/June_Temp.png). <br />
+![Screenshot](Resources/June_Temp.png) <br />
 
 
 
-![image_name](surfs_up/Resources/Dec_Temp.png). <br />
+![image_name](Resources/Dec_Temp.png) <br />
 
 
 ## Summary: <br />
@@ -25,8 +25,8 @@ There is a high-level summary of the results and there are two additional querie
 
 
 
-![image_name](surfs_up/Resources/June_Rain.png) <br />
+![image_name](Resources/June_Rain.png) <br />
 
 
 
-![image_name](surfs_up/Resources/Dec_Rain.png) <br />
+![image_name](Resources/Dec_Rain.png) <br />
